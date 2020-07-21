@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>hu.springboot-restful-jpa</groupId>
-	<artifactId>books</artifactId>
+	<artifactId>spring-boot-test-units04</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>books</name>
+	<name>spring-boot-test-units04</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
